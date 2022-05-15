@@ -5,4 +5,5 @@
 <a href="https://youtube.com/warze"><img src="warzeyt.png"></a>
 <a href="https://reddit.com/u/WarzeDev"><img src="warzereddit.png"></a>
 <a href="https://twitter.com/WarzeDev"><img src="warzedev.png"></a>
+<img src="warzediscord.png">
 <p>
