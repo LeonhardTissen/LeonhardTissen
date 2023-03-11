@@ -1,5 +1,7 @@
 <h1>Hi, I'm Warze. I code software, websites and games.</h1>
 <p>My passion is it to create things that are either useful or interesting. A lot of my previous projects are open-source for you to check out. You should also check out my website to have a more interactive experience browsing through my creations.</p>
+<p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
+<hr>
 <h3>My Socials:</h3>
 <a href="https://warze.org"><img src="warzefresh.png" width="64"></a>
 <a href="https://youtube.com/warze"><img src="youtubesmall.png" width="64"></a>
@@ -9,7 +11,6 @@
 <a href="https://paypal.me/warzeorg"><img src="paypalsmall.png" width="64"></a>
 <a href="https://steamcommunity.com/id/warzeegg/"><img src="steamsmall.png" width="64"></a>
 <hr>
-<p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
 <h3>Languages and Tools:</h3>
 <p>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
