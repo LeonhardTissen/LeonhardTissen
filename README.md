@@ -4,7 +4,7 @@
 <p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
 <hr>
 <h3>My Website:</h3>
-<a href="https://warze.org"><img src="assets/warze.svg" width="128" height="128"></a>
+<a href="https://warze.org"><img src="assets/warzeorg.svg" width="128" height="128"></a>
 <h3>My Socials:</h3>
 <a href="https://youtube.com/warze"><img src="assets/youtube.png" width="100" height="100"></a>
 <a href="https://reddit.com/u/WarzeDev"><img src="assets/reddit.png" width="100" height="100"></a>
