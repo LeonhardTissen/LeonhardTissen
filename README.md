@@ -1,6 +1,6 @@
-<h1>Hi, I'm Warze. I code software, websites and games.</h1>
+<h1>👋 Hi! I'm Warze, Frontend Developer from <b>🇩🇪 Germany</b></h1>
+<p>I code software, websites and games and I've been a developer for over <b>4 years.</b></p>
 <p>My passion is it to create things that are either useful or interesting. A lot of my previous projects are open-source for you to check out. You should also check out my website to have a more interactive experience browsing through my creations.</p>
-<p>I've been a developer for over 4 years.</p>
 <p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
 <hr>
 <h3>My Socials:</h3>
