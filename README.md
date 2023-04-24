@@ -4,13 +4,13 @@
 <p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
 <hr>
 <h3>My Socials:</h3>
-<a href="https://warze.org"><img src="assets/warze.png" width="64"></a>
-<a href="https://youtube.com/warze"><img src="assets/youtube.png" width="64"></a>
-<a href="https://reddit.com/u/WarzeDev"><img src="assets/reddit.png" width="64"></a>
-<a href="https://discord.gg/jtcqgvkZY7"><img src="assets/discord.svg" width="64"></a>
-<a href="https://twitter.com/WarzeDev"><img src="assets/twitter.svg" width="64"></a>
-<a href="https://paypal.me/warzeorg"><img src="assets/paypal.svg" width="64"></a>
-<a href="https://steamcommunity.com/id/warzeegg/"><img src="assets/steam.svg" width="64"></a>
+<a href="https://warze.org"><img src="assets/warze.png" width="64" height="64"></a>
+<a href="https://youtube.com/warze"><img src="assets/youtube.png" width="64" height="64"></a>
+<a href="https://reddit.com/u/WarzeDev"><img src="assets/reddit.png" width="64" height="64"></a>
+<a href="https://discord.gg/jtcqgvkZY7"><img src="assets/discord.svg" width="64" height="64"></a>
+<a href="https://twitter.com/WarzeDev"><img src="assets/twitter.svg" width="64" height="64"></a>
+<a href="https://paypal.me/warzeorg"><img src="assets/paypal.svg" width="64" height="64"></a>
+<a href="https://steamcommunity.com/id/warzeegg/"><img src="assets/steam.svg" width="64" height="64"></a>
 <hr>
 <h3>Languages and Tools:</h3>
 <p>
