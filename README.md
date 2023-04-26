@@ -2,7 +2,7 @@
 <p>I code software, websites and games and I've been a developer for over <b>4 years.</b></p>
 <p>My passion is it to create things that are either useful or interesting. A lot of my previous projects are open-source for you to check out. You should also check out my website to have a more interactive experience browsing through my creations.</p>
 <p>Some other things about me is that I love tinkering with and building computers and computer-like electronics and I daily drive Linux on my main system. Join my Discord server if you want to have a chat!</p>
-<hr>
+
 <h2>My Website:</h2>
 <a href="https://warze.org"><img src="assets/warzeorg.svg" width="128" height="128"></a>
 <h2>My Socials:</h2>
@@ -12,7 +12,7 @@
 <a href="https://twitter.com/WarzeDev"><img src="assets/twitter.svg" width="100" height="100"></a>
 <a href="https://paypal.me/warzeorg"><img src="assets/paypal.svg" width="100" height="100"></a>
 <a href="https://steamcommunity.com/id/warzeegg/"><img src="assets/steam.svg" width="100" height="100"></a>
-<hr>
+
 <h2>My Languages and Tools:</h2>
 <h3>Frontend Development:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> 
