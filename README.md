@@ -5,11 +5,9 @@
 
 <h2>My Website:</h2>
 <a href="https://warze.org"><img src="assets/warzeorg.svg" width="128" height="128"></a>
-<h2>My Socials:</h2>
+<h2>My Stuff:</h2>
 <a href="https://youtube.com/warze"><img src="assets/youtube.png" width="100" height="100"></a>
-<a href="https://reddit.com/u/WarzeDev"><img src="assets/reddit.png" width="100" height="100"></a>
 <a href="https://discord.gg/jtcqgvkZY7"><img src="assets/discord.svg" width="100" height="100"></a>
-<a href="https://twitter.com/WarzeDev"><img src="assets/twitter.svg" width="100" height="100"></a>
 <a href="https://paypal.me/warzeorg"><img src="assets/paypal.svg" width="100" height="100"></a>
 <a href="https://steamcommunity.com/id/warzeegg/"><img src="assets/steam.svg" width="100" height="100"></a>
 
@@ -25,10 +23,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="assets/nodejs.svg" alt="nodejs" width="80" height="80"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="80" height="80"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="80" height="80"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
 <h3>Other:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a>
