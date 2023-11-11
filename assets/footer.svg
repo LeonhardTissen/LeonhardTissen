@@ -10,6 +10,7 @@ svg {
 .wave {
     animation: wave 5s linear;
     animation-iteration-count: infinite;  
+    fill: #65F8B0;
 }
 #wave2 {
   animation-duration: 10s;
@@ -22,47 +23,36 @@ svg {
 }
 @keyframes wave {
   0% {
-        fill: #33FF00 ;
         transform: translateX(-0%);
       }
   10% {
-        fill: #2BFF22 ;
         transform: translateX(-10%);
       }
   20% {
-        fill: #22FF44 ;
         transform: translateX(-20%);
       }
   30% {
-        fill: #1FFF88 ;
         transform: translateX(-30%);
       }
   40% {
-        fill: #11FF99 ;
         transform: translateX(-40%);
       }
   50% {
-        fill: #1FFF88 ;
         transform: translateX(-50%);
       }
   60% {
-        fill: #1BFF55 ;
         transform: translateX(-60%);
       }
   70% {
-        fill: #2FFF33 ;
         transform: translateX(-70%);
       }
   80%{
-        fill: #31FF22 ;
         transform: translateX(-80%);
       }
   90%{
-        fill: #32FF11;
         transform: translateX(-90%);
       }
   100%{
-        fill: #33FF00 ;
         transform: translateX(-100%);
       }
     }
