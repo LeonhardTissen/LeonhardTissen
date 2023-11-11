@@ -2,16 +2,8 @@
     <a href="https://www.google.com/search?q=Leonhard+Tissen">
         <img src="assets/header.png" alt="Hi! I'm Leonhard">
     </a>
+    <img src="assets/aboutme.png" alt="About Me">
 </p>
-
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li>🇩🇪 I'm from Germany</li>
-    <li>🖥️ 7 years of experience</li>
-    <li>🐧 Linux Desktop user</li>
-    <li>🌐 Frontend Development</li>
-    <li>📚 Fullstack Development</li>
-    <li>🎮 Game Development</li>
-</ul>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
