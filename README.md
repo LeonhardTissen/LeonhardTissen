@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hi! I'm Leonhard</h1>
-<p align="center">
-    <a href="https://www.google.com/search?q=Leonhard+Tissen">「 Google Me 」</a>
-</p>
+<a href="https://www.google.com/search?q=Leonhard+Tissen">
+    <img src="assets/header.png" alt="Hi! I'm Leonhard">
+</a>
 
 <ul>
     <li>🇩🇪 I'm from Germany</li>
