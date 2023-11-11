@@ -1,19 +1,21 @@
-<h1><img width="24" src="assets/wave.png"> Hi! I'm Leonhard</h1>
+<h1 align="center"><img width="24" src="assets/wave.png"> Hi! I'm Leonhard</h1>
 <p align="center">
     <a href="https://www.google.com/search?q=Leonhard+Tissen">「 Google Me 」</a>
 </p>
 
-<p>🇩🇪 I'm from Germany</p>
-<p>🖥️ 7 years of experience</p>
-<p>🐧 Linux Desktop user</p>
-<p>🌐 Frontend Development</p>
-<p>📚 Fullstack Development</p>
-<p>🎮 Game Development</p>
+<ul>
+    <li>🇩🇪 I'm from Germany</li>
+    <li>🖥️ 7 years of experience</li>
+    <li>🐧 Linux Desktop user</li>
+    <li>🌐 Frontend Development</li>
+    <li>📚 Fullstack Development</li>
+    <li>🎮 Game Development</li>
+</ul>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
