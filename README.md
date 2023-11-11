@@ -1,8 +1,10 @@
-<a href="https://www.google.com/search?q=Leonhard+Tissen" align="center">
-    <img src="assets/header.png" alt="Hi! I'm Leonhard">
-</a>
+<p align="center">
+    <a href="https://www.google.com/search?q=Leonhard+Tissen">
+        <img src="assets/header.png" alt="Hi! I'm Leonhard">
+    </a>
+</p>
 
-<ul align="center">
+<ul style="list-style-type: none; padding: 0; text-align: center;">
     <li>🇩🇪 I'm from Germany</li>
     <li>🖥️ 7 years of experience</li>
     <li>🐧 Linux Desktop user</li>
