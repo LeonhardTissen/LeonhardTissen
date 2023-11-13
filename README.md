@@ -33,6 +33,6 @@
 ![VSCodium](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscodium&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-[![WarzeEgg's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WarzeEgg&bg_color=000000&color=ffffff&line=6fff91&point=2da272&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![WarzeEgg's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeonhardTissen&bg_color=000000&color=ffffff&line=6fff91&point=2da272&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="assets/footer.svg">
