@@ -4,16 +4,16 @@
     </a>
     <br>
     <a href="https://twitter.warze.org">
-        ![Leonhard Tissen on X/Twitter](https://s.warze.org/x.png)
+        <img src="https://s.warze.org/x.png" alt="Leonhard Tissen on X/Twitter">
     </a>
     <a href="https://youtube.warze.org">
-        ![Leonhard Tissen on YouTube](https://s.warze.org/youtube.png)
+        <img src="https://s.warze.org/youtube.png" alt="Leonhard Tissen on YouTube">
     </a>
     <a href="https://linkedin.warze.org">
-        ![Leonhard Tissen on LinkedIn](https://s.warze.org/linkedin.png)
+        <img src="https://s.warze.org/linkedin.png" alt="Leonhard Tissen on LinkedIn">
     </a>
     <a href="https://gitlab.warze.org">
-        ![Leonhard Tissen on GitLab](https://s.warze.org/gitlab.png)
+        <img src="https://s.warze.org/gitlab.png" alt="Leonhard Tissen on GitLab">
     </a>
 
     <img src="assets/aboutme.png" alt="About Me">
