@@ -2,6 +2,20 @@
     <a href="https://www.google.com/search?q=Leonhard+Tissen">
         <img src="assets/header.png" alt="Hi! I'm Leonhard">
     </a>
+    <br>
+    <a href="https://twitter.warze.org">
+        <img src="//s.warze.org/x.png" alt="Leonhard Tissen on X/Twitter">
+    </a>
+    <a href="https://youtube.warze.org">
+        <img src="//s.warze.org/youtube.png" alt="Leonhard Tissen on YouTube">
+    </a>
+    <a href="https://linkedin.warze.org">
+        <img src="//s.warze.org/linkedin.png" alt="Leonhard Tissen on LinkedIn">
+    </a>
+    <a href="https://gitlab.warze.org">
+        <img src="//s.warze.org/gitlab.png" alt="Leonhard Tissen on GitLab">
+    </a>
+
     <img src="assets/aboutme.png" alt="About Me">
 </p>
 
