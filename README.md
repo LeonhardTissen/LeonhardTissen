@@ -1,18 +1,18 @@
-<p align="center" style="margin-bottom: 0;">
+<p align="center">
     <a href="https://www.google.com/search?q=Leonhard+Tissen">
         <img src="assets/header.png" alt="Hi! I'm Leonhard">
     </a>
     <br>
-    <a href="https://twitter.warze.org">
+    <a href="https://twitter.warze.org" style="text-decoration: none;">
         <img src="https://s.warze.org/x.png" alt="Leonhard Tissen on X/Twitter" />
     </a>
-    <a href="https://youtube.warze.org">
+    <a href="https://youtube.warze.org" style="text-decoration: none;">
         <img src="https://s.warze.org/youtube.png" alt="Leonhard Tissen on YouTube" />
     </a>
-    <a href="https://linkedin.warze.org">
+    <a href="https://linkedin.warze.org" style="text-decoration: none;">
         <img src="https://s.warze.org/linkedin.png" alt="Leonhard Tissen on LinkedIn" />
     </a>
-    <a href="https://gitlab.warze.org">
+    <a href="https://gitlab.warze.org" style="text-decoration: none;">
         <img src="https://s.warze.org/gitlab.png" alt="Leonhard Tissen on GitLab" />
     </a>
     <br>
