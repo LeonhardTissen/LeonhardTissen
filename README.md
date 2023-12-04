@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
     <a href="https://www.google.com/search?q=Leonhard+Tissen">
         <img src="assets/header.png" alt="Hi! I'm Leonhard">
     </a>
