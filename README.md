@@ -1,19 +1,19 @@
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
     <a href="https://www.google.com/search?q=Leonhard+Tissen">
         <img src="assets/header.png" alt="Hi! I'm Leonhard">
     </a>
     <br>
-    <img src="https://s.warze.org/arrowright.png"><a href="https://twitter.warze.org" style="text-decoration: none;">
-        <img src="https://s.warze.org/x2.png" alt="Leonhard Tissen on X/Twitter" />
+    <img src="https://s.warze.org/arrowright.png" style="display: inline-block;"><a href="https://twitter.warze.org" style="text-decoration: none;">
+        <img src="https://s.warze.org/x2.png" alt="Leonhard Tissen on X/Twitter" style="display: inline-block;"/>
     </a><a href="https://youtube.warze.org" style="text-decoration: none;">
-        <img src="https://s.warze.org/youtube2.png" alt="Leonhard Tissen on YouTube" />
+        <img src="https://s.warze.org/youtube2.png" alt="Leonhard Tissen on YouTube" style="display: inline-block;"/>
     </a><a href="https://linkedin.warze.org" style="text-decoration: none;">
-        <img src="https://s.warze.org/linkedin2.png" alt="Leonhard Tissen on LinkedIn" />
+        <img src="https://s.warze.org/linkedin2.png" alt="Leonhard Tissen on LinkedIn" style="display: inline-block;"/>
     </a><a href="https://gitlab.warze.org" style="text-decoration: none;">
-        <img src="https://s.warze.org/gitlab2.png" alt="Leonhard Tissen on GitLab" />
+        <img src="https://s.warze.org/gitlab2.png" alt="Leonhard Tissen on GitLab" style="display: inline-block;"/>
     </a><img src="https://s.warze.org/arrowleft.png">
     <br>
-    <img src="assets/aboutme.png" alt="About Me">
+    <img src="assets/aboutme.png" alt="About Me" style="display: inline-block;">
 </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
